@@ -2,9 +2,10 @@
 
 Deployed Backend URL:- https://xflix-node-pratyush.herokuapp.com
 
-API endpoints:-
-GET https://xflix-node-pratyush.herokuapp.com/v1/videos
-GET https://xflix-node-pratyush.herokuapp.com/v1/videos/:videoId
-POST https://xflix-node-pratyush.herokuapp.com/v1/videos
-PATCH https://xflix-node-pratyush.herokuapp.com/v1/videos/:videoId/views
-PATCH https://xflix-node-pratyush.herokuapp.com/v1/videos/:videoId/votes
+API endpoints:- 
+
+GET https://xflix-node-pratyush.herokuapp.com/v1/videos <br />
+GET https://xflix-node-pratyush.herokuapp.com/v1/videos/:videoId  <br />
+POST https://xflix-node-pratyush.herokuapp.com/v1/videos  <br />
+PATCH https://xflix-node-pratyush.herokuapp.com/v1/videos/:videoId/views  <br />
+PATCH https://xflix-node-pratyush.herokuapp.com/v1/videos/:videoId/votes  <br />
